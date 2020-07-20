@@ -9,7 +9,7 @@
 
 ## Get in touch
 
-Reach out via [🐦 Twitter at @rghv_bali](https://twitter.com/rghv_bali) or find me on [LinkedIn](https://linkedin.com/in/baliraghav).
+Reach out via [🐦 Twitter @rghv_bali](https://twitter.com/rghv_bali) or find me on [LinkedIn](https://linkedin.com/in/baliraghav).
 
 <!--
 **raghavbali/raghavbali** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
