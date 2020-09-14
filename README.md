@@ -11,7 +11,7 @@
 
 Reach out via [🐦 Twitter @rghv_bali](https://twitter.com/rghv_bali) or find me on [LinkedIn](https://linkedin.com/in/baliraghav).
 
-![My github stats](https://github-readme-stats.vercel.app/api?username=raghavbali&show_icons=true&theme=default)
+<!--![My github stats](https://github-readme-stats.vercel.app/api?username=raghavbali&show_icons=true&theme=default)-->
 
 <!--
 **raghavbali/raghavbali** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
