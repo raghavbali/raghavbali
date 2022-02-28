@@ -1,7 +1,8 @@
 ## Hello, I am Raghav
 
-- :india: I am a Data Scientist from India 
-- 🔷 I work at Optum (United Healthgroup)
+- :india: I am a Data Scientist from India based out of Berlin 🇩🇪
+- 🔷 I work at Delivery Hero
+- 🖥️ My [Works/Website](https://raghavbali.github.io/)
 - ✏️ Checkout my machine learning and deep learning books on [amazon](https://www.amazon.com/Raghav-Bali/e/B07K2PKCT9?ref=sr_ntt_srch_lnk_1&qid=1595256476&sr=8-1)
 - 🐳 I do quite a bunch of Docker
 - ☸️ I design and architect enterprise scale applications
